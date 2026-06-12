@@ -1,0 +1,8 @@
+{
+  "name": "Viettel Mobile Data",
+  "description": "Viettel telecom mobile data search engine and fast packages registration portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
